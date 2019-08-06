@@ -1,0 +1,362 @@
+{
+  "items": [
+    {
+      "key": "play",
+      "value": "Play"
+    },
+	{
+      "key": "options",
+      "value": "Options"
+    },
+	{
+      "key": "store",
+      "value": "Store"
+    },
+	{
+      "key": "characters",
+      "value": "Characters"
+    },
+	{
+      "key": "upgrades",
+      "value": "Upgrades"
+    },
+	{
+      "key": "utilities",
+      "value": "Utilities"
+    },
+	{
+      "key": "goToMenu",
+      "value": "Go to menu"
+    },
+	{
+      "key": "language",
+      "value": "Language"
+    },
+	{
+      "key": "contactUs",
+      "value": "Contact us"
+    },
+	{
+      "key": "credits",
+      "value": "Credits"
+    },
+	{
+      "key": "sounds",
+      "value": "Sounds"
+    },
+	{
+      "key": "music",
+      "value": "Music"
+    },
+	{
+      "key": "facebook",
+      "value": "Facebook"
+    },
+	{
+      "key": "achievements",
+      "value": "Achievements"
+    },
+	{
+      "key": "googlePlay",
+      "value": "Google Play"
+    },
+	{
+      "key": "ranking",
+      "value": "Ranking"
+    },
+	{
+      "key": "pause",
+      "value": "Pause"
+    },
+	{
+      "key": "continue",
+      "value": "Continue"
+    },
+	{
+      "key": "retry",
+      "value": "Retry"
+    },
+	{
+      "key": "exit",
+      "value": "Exit"
+    },
+	{
+      "key": "gameOver",
+      "value": "Game Over"
+    },
+	{
+      "key": "score",
+      "value": "Score"
+    },
+	{
+      "key": "bestScore",
+      "value": "Best Score"
+    },
+	{
+      "key": "cookies",
+      "value": "Cookies"
+    },
+    {
+      "key": "lights",
+      "value": "lights"
+    },
+    {
+  "key": "times",
+  "value": "times"
+},
+  {
+      "key": "dailyReward",
+      "value": "Daily Reward"
+    },
+  {
+      "key": "claim",
+      "value": "Claim"
+    },
+{
+   "key": "claimx2",
+      "value": "Claim x2"
+},
+{
+   "key": "meterMission",
+      "value": "Recorre /VALUE metros."
+},
+{
+   "key": "lightMission",
+      "value": "Enciende /VALUE luces navideñas."
+},
+{
+   "key": "lightMissionNoDie",
+      "value": "Enciende /VALUE luces navideñas sin morir."
+},
+{
+   "key": "meterMissionNoDie",
+      "value": "Recorre /VALUE metros sin morir."
+},
+{
+   "key": "cookiesMission",
+      "value": "Recolecta /VALUE galletas."
+},
+{
+   "key": "cookiesMissionNoDie",
+      "value": "Recolecta /VALUE galletas sin morir."
+},
+{
+   "key": "lotCookieMission",
+      "value": "Recolecta /VALUE galletas especiales."
+},
+{
+   "key": "lotCookieMissionNoDie",
+      "value": "Recolecta /VALUE galletas especiales sin morir."
+},
+{
+   "key": "chimneyFallMission",
+      "value": "Cae /VALUE veces por la chimenea."
+},
+{
+   "key": "buyUpgradeMission",
+      "value": "Compra la mejora /VALUE ."
+},
+{
+   "key": "dieBetweenMission",
+      "value": "Termina una partida entre /VALUE metros."
+},
+{
+   "key": "itchMission",
+      "value": "Deslizate por la pared /VALUE metros."
+},
+{
+   "key": "missionComplete",
+      "value": "MISIÓN COMPLETA"
+},
+{
+   "key": "missions",
+      "value": "MISSIONS"
+},
+{
+   "key": "openGift",
+      "value": "OPEN GIFT"
+},
+{
+   "key": "day",
+      "value": "Day"
+},
+{
+   "key": "buy",
+      "value": "Buy"
+},
+{
+   "key": "equip",
+      "value": "Equip"
+},
+{
+  "key": "u_iman_cookies",
+  "value": "Cookie atraction"
+},
+{
+  "key": "u_iman_special_cookies",
+  "value": "Special cookie atraction"
+},
+{
+  "key": "u_improved_cookies",
+  "value": "Improved cookies"
+},
+{
+  "key": "u_ruin_lasers",
+  "value": "Ruin lasers"
+},
+{
+  "key": "u_ruin_cohetes",
+  "value": "Ruin missiles"
+},
+{
+  "key": "u_bomb",
+  "value": "Bomb"
+},
+{
+  "key": "u_bomb_d",
+  "value": "Bomb"
+},
+{
+  "key": "u_iman_cookies_d",
+  "value": "Cookie atraction"
+},
+{
+  "key": "u_iman_special_cookies_d",
+  "value": "Special cookie atraction"
+},
+{
+  "key": "u_improved_cookies_d",
+  "value": "Improved cookies"
+},
+{
+  "key": "u_ruin_lasers_d",
+  "value": "Ruin lasers"
+},
+{
+  "key": "u_ruin_cohetes_d",
+  "value": "Ruin missiles"
+},
+{
+  "key": "discard",
+  "value": "Discard"
+},
+{
+  "key": "requirement_1",
+  "value": "You need to buy /VALUE upgrades"
+},
+{
+  "key": "reset",
+  "value": "Reset"
+},
+{
+  "key": "remaining",
+  "value": "Remaining: "
+},
+{
+  "key": "meters",
+  "value": "meters"
+},
+{
+  "key": "upgrade",
+  "value": "Upgrade"
+},
+{
+  "key": "level",
+  "value": "level"
+},
+{
+  "key": "achv_name_test",
+  "value": "Achievement name"
+},
+{
+  "key": "achv_descr_test",
+  "value": "Achievement description"
+},
+{
+  "key": "achv1_name",
+  "value": "Saltarin novato"
+},
+{
+  "key": "achv2_name",
+  "value": "Saltarin experto"
+},
+{
+  "key": "achv3_name",
+  "value": "Saltarin sayayin"
+},
+{
+  "key": "achv4_name",
+  "value": "Saltarin saytama"
+},
+{
+  "key": "achv5_name",
+  "value": "Saltarin legendario"
+},
+{
+  "key": "achv1_descr",
+  "value": "Cae /VALUE veces por la chimenea."
+},
+{
+  "key": "achv6_name",
+  "value": "Cazador de regalos"
+},
+{
+  "key": "achv6_descr",
+  "value": "Recoge el regalo diario del quinto día."
+},
+{
+  "key": "achv7_name",
+  "value": "Experto en caídas"
+},
+{
+  "key": "achv8_name",
+  "value": "Maestro en caídas"
+},
+{
+  "key": "achv9_name",
+  "value": "Sensei en caídas"
+},
+{
+  "key": "achv7_descr",
+  "value": "Cae /VALUE metros por la chimenea."
+},
+{
+  "key": "achv10_name",
+  "value": "Junior comegalletas"
+},
+{
+  "key": "achv10_descr",
+  "value": "Come /VALUE galletas."
+},
+{
+  "key": "achv11_name",
+  "value": "Sensei comegalletas"
+},
+{
+  "key": "achv12_name",
+  "value": "Legendario comegalletas"
+},
+{
+  "key": "achv13_name",
+  "value": "Master comegalletas"
+},
+{
+  "key": "achv14_name",
+  "value": "Cazador de regalos diarios."
+},
+{
+  "key": "achv14_descr",
+  "value": "Recoge /VALUE regalos diarios."
+},
+{
+  "key": "achv15_name",
+  "value": "Experto cazador de regalos diarios."
+},
+{
+  "key": "achv16_name",
+  "value": "Sensei cazador de regalos diarios."
+}
+
+
+]
+}

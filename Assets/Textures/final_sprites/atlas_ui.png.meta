@@ -1,0 +1,1525 @@
+fileFormatVersion: 2
+guid: b4989c26dac28e54faca601de0da6e82
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8017576276675553261
+    second: Anterior PJ
+  - first:
+      213: 187963830222600003
+    second: Atras Main
+  - first:
+      213: -1627816529064313630
+    second: Circulo
+  - first:
+      213: 241157052130931835
+    second: Diamantes
+  - first:
+      213: -3207521078464415645
+    second: Galletas
+  - first:
+      213: 9047844821849130121
+    second: Options
+  - first:
+      213: 8651021548323790430
+    second: Siguiente PJ
+  - first:
+      213: 8581146994476450455
+    second: Store
+  - first:
+      213: -173238236478279830
+    second: base-diamante-ms
+  - first:
+      213: -3607560066018437651
+    second: base-galleta-ms
+  - first:
+      213: -2344252035745359385
+    second: base-play-ms
+  - first:
+      213: -7595089447558662727
+    second: circulo-options-ms
+  - first:
+      213: 7761768986048310921
+    second: circulo-shop-ms
+  - first:
+      213: 4971951864374700707
+    second: diamante
+  - first:
+      213: -6084317459365317353
+    second: diamantes
+  - first:
+      213: 8842001605536884845
+    second: galleta-ms
+  - first:
+      213: 7459212317218755753
+    second: galletas-ms
+  - first:
+      213: 2648273465418256925
+    second: Icono shop
+  - first:
+      213: -8502861488309449909
+    second: icono-options-ms
+  - first:
+      213: -2731783391675718111
+    second: linea-circulo-ms
+  - first:
+      213: 5241556699647344147
+    second: liston-santa-ms
+  - first:
+      213: -9151920976258197082
+    second: options-ms
+  - first:
+      213: 9205700183584058241
+    second: store-ms
+  - first:
+      213: 7895292320448373853
+    second: DRS_Cinta_Dia_1
+  - first:
+      213: -5551989377117844312
+    second: DRS_Cinta_Dia_2
+  - first:
+      213: 4808951130562033975
+    second: DRS_Cinta_Dia_3
+  - first:
+      213: 5480914949391839676
+    second: DRS_Cinta_Dia_4
+  - first:
+      213: -3707640062716912396
+    second: DRS_Cinta_Dia_5
+  - first:
+      213: -3271224652534636470
+    second: DRS_Linea_5
+  - first:
+      213: -3635375492450159693
+    second: DRS_Linea_store_1
+  - first:
+      213: -662857158282718175
+    second: DRS_Linea_store_2
+  - first:
+      213: -9038772480095869550
+    second: DRS_Linea_store_3
+  - first:
+      213: 5047457531142351292
+    second: DRS_Linea_store_4
+  - first:
+      213: 5499611627646382040
+    second: DRS_Reclamar
+  - first:
+      213: 3273953016622416216
+    second: DRS_Store
+  - first:
+      213: 8434294438400852216
+    second: DRS_Store_2
+  - first:
+      213: -3311031095434317422
+    second: DRS_Store_3
+  - first:
+      213: 43136492492205737
+    second: DRS_Store_4
+  - first:
+      213: 3788910946224790255
+    second: DRS_Store_5
+  - first:
+      213: 7988652584544531846
+    second: GOS_Circulo
+  - first:
+      213: 5049430406794478385
+    second: GOS_Linea Circulo
+  - first:
+      213: 4265258382705483892
+    second: GOS_No_gracias
+  - first:
+      213: -3151103048814108596
+    second: GOS_Salir
+  - first:
+      213: -3786552849589197953
+    second: LS_Barra_Completa
+  - first:
+      213: -1527445589408484635
+    second: LS_Relleno_Barra
+  - first:
+      213: -7109462551066759125
+    second: MS_Base_diamante
+  - first:
+      213: 547791374564319167
+    second: MS_Base_galleta
+  - first:
+      213: -5749466484700779274
+    second: MS_Base_play
+  - first:
+      213: -6404707585805928773
+    second: MS_Circulo
+  - first:
+      213: 3401507823436563939
+    second: MS_Circulo_Options
+  - first:
+      213: 5667518639118144893
+    second: MS_Circulo_shop
+  - first:
+      213: -2947284300967822063
+    second: MS_Diamante
+  - first:
+      213: -5260139064192043991
+    second: MS_Diamantes_base
+  - first:
+      213: -392814080805484569
+    second: MS_Galleta
+  - first:
+      213: -2132565162760446867
+    second: MS_Galletas_base
+  - first:
+      213: 7563017756228223804
+    second: MS_Icono_Options
+  - first:
+      213: 1861156919905624596
+    second: MS_Icono_shop
+  - first:
+      213: -2623758247418134631
+    second: MS_Linea_Circulo
+  - first:
+      213: 6723718146393273527
+    second: MS_Liston_Santa
+  - first:
+      213: -2301794094742404287
+    second: MS_Options
+  - first:
+      213: -5431503671051513124
+    second: MS_Store
+  - first:
+      213: 1352353893478379913
+    second: SS_Anterior_PJ
+  - first:
+      213: -529354495756416248
+    second: SS_Atras_Main
+  - first:
+      213: 201350512824127120
+    second: SS_Ayudas
+  - first:
+      213: 1178382529292933516
+    second: SS_Cinta_Santa
+  - first:
+      213: -694136464449725835
+    second: SS_Circulo
+  - first:
+      213: -963946840624076490
+    second: SS_Circulo_Atras
+  - first:
+      213: -6841659107739196287
+    second: SS_Comprar
+  - first:
+      213: 4916620064544047405
+    second: SS_Flecha_PJ_A
+  - first:
+      213: -79478621548684080
+    second: SS_Icono_Atras
+  - first:
+      213: 3702055338923589146
+    second: SS_Linea_circulo
+  - first:
+      213: -4628717137377270533
+    second: SS_Linea_PJ_A
+  - first:
+      213: -6176456929658645822
+    second: SS_Linea_PJ_B-1
+  - first:
+      213: 1997151313599265496
+    second: SS_Linea_PJ_B
+  - first:
+      213: -8409439488375522374
+    second: SS_Mejoras
+  - first:
+      213: -684568154023338195
+    second: SS_Personajes
+  - first:
+      213: 1385554859615056683
+    second: SS_Probar
+  - first:
+      213: -709061534660647733
+    second: SS_Reno 2
+  - first:
+      213: 4707906182912713717
+    second: SS_Reno
+  - first:
+      213: -6804563542368833723
+    second: SS_Siguiente_PJ
+  - first:
+      213: -7747026551152760721
+    second: SS_Titulo
+  - first:
+      213: -8252995672197034651
+    second: MS_play_arrow
+  - first:
+      213: -722948960953362118
+    second: 'LS_Base_Barra '
+  - first:
+      213: 6700167863264481274
+    second: MS_Aro_texturado
+  - first:
+      213: -4219998066762402804
+    second: MS_LogoName
+  - first:
+      213: -7864714789166571374
+    second: DRS_Daily
+  - first:
+      213: 8581093236586270756
+    second: DRS_Recompensa
+  - first:
+      213: 579448705087616459
+    second: SS_Store
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DRS_Cinta_Dia_1
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 22
+        width: 208
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 7895292320448373853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DRS_Daily
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 477
+        width: 382
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -7864714789166571374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DRS_Linea_store_1
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 319
+        width: 157
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -3635375492450159693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DRS_Reclamar
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 512
+        width: 217
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 5499611627646382040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DRS_Recompensa
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 455
+        width: 583
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 8581093236586270756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DRS_Store
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 338
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 3273953016622416216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DRS_Store_2
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 192
+        width: 126
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 8434294438400852216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GOS_Circulo
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 617
+        width: 386
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 7988652584544531846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GOS_Linea Circulo
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 600
+        width: 401
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 5049430406794478385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GOS_No_gracias
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 477
+        width: 175
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 4265258382705483892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GOS_Salir
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 275
+        width: 235
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -3151103048814108596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LS_Barra_Completa
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 153
+        width: 303
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -3786552849589197953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 'LS_Base_Barra '
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 465
+        width: 329
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -722948960953362118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LS_Relleno_Barra
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 135
+        width: 303
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -1527445589408484635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS_Aro_texturado
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 617
+        width: 386
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 6700167863264481274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS_Base_diamante
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 12
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -7109462551066759125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS_Base_galleta
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 10
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 547791374564319167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS_Base_play
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 44
+        width: 258
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -5749466484700779274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS_Circulo
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 68
+        width: 386
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -6404707585805928773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS_Circulo_Options
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 49
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 3401507823436563939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS_Circulo_shop
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 83
+        width: 84
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 5667518639118144893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS_Diamante
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 349
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -2947284300967822063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS_Diamantes_base
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 260
+        width: 150
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -5260139064192043991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS_Galleta
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 477
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -392814080805484569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS_Galletas_base
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 14
+        width: 150
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -2132565162760446867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS_Icono_Options
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 476
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 7563017756228223804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS_Icono_shop
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 54
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 1861156919905624596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS_Linea_Circulo
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 600
+        width: 402
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -2623758247418134631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS_Liston_Santa
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 6
+        width: 386
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 6723718146393273527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS_LogoName
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 510
+        width: 369
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -4219998066762402804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS_Options
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -2301794094742404287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS_play_arrow
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 29
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -8252995672197034651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS_Store
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -5431503671051513124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Anterior_PJ
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 2
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 1352353893478379913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Atras_Main
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -529354495756416248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ayudas
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 183
+        width: 228
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 201350512824127120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Cinta_Santa
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 78
+        width: 413
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 1178382529292933516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Circulo
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 155
+        width: 413
+        height: 414
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -694136464449725835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Circulo_Atras
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 97
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -963946840624076490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Comprar
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 369
+        width: 236
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -6841659107739196287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Flecha_PJ_A
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 285
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 4916620064544047405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Icono_Atras
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 583
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -79478621548684080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Linea_circulo
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 571
+        width: 431
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 3702055338923589146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Linea_PJ_A
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 379
+        width: 83
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -4628717137377270533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Linea_PJ_B-1
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 6
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -6176456929658645822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Linea_PJ_B
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 345
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 1997151313599265496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mejoras
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 168
+        width: 228
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -8409439488375522374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Personajes
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 91
+        width: 228
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -684568154023338195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Probar
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 92
+        width: 184
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 1385554859615056683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Reno 2
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 149
+        width: 304
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -709061534660647733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Reno
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 171
+        width: 304
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 4707906182912713717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Siguiente_PJ
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 2
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -6804563542368833723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Store
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 18
+        width: 234
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 579448705087616459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Titulo
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 64
+        width: 267
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -7747026551152760721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

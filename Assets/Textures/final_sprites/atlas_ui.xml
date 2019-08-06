@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker https://www.codeandweb.com/texturepacker -->
+<!-- $TexturePacker:SmartUpdate:7f762be8526a8f50e61d54e1cffcba3f:0c056741c3e8d240e218e8ef767a4f01:bfd24aa78998f514dadbab5b324a5d14$ -->
+<TextureAtlas imagePath="atlas_ui.png" width="2024" height="1003">
+    <SubTexture name="DRS_Cinta_Dia_1" x="1064" y="941" width="208" height="40"/>
+    <SubTexture name="DRS_Daily" x="1241" y="388" width="382" height="138"/>
+    <SubTexture name="DRS_Linea_store_1" x="1416" y="528" width="157" height="156"/>
+    <SubTexture name="DRS_Reclamar" x="1019" y="405" width="217" height="86"/>
+    <SubTexture name="DRS_Recompensa" x="434" y="405" width="583" height="143"/>
+    <SubTexture name="DRS_Store" x="1813" y="540" width="125" height="125"/>
+    <SubTexture name="DRS_Store_2" x="1416" y="686" width="126" height="125"/>
+    <SubTexture name="GOS_Circulo" x="1241" y="1" width="386" height="385"/>
+    <SubTexture name="GOS_Linea Circulo" x="838" y="1" width="401" height="402"/>
+    <SubTexture name="GOS_No_gracias" x="1019" y="493" width="175" height="33"/>
+    <SubTexture name="GOS_Salir" x="1575" y="636" width="235" height="92"/>
+    <SubTexture name="LS_Barra_Completa" x="1110" y="834" width="303" height="16"/>
+    <SubTexture name="LS_Base_Barra " x="1625" y="495" width="329" height="43" frameX="-476" frameY="-368" frameWidth="1280" frameHeight="720"/>
+    <SubTexture name="LS_Relleno_Barra" x="1110" y="852" width="303" height="16"/>
+    <SubTexture name="MS_Aro_texturado" x="1629" y="1" width="386" height="385"/>
+    <SubTexture name="MS_Base_diamante" x="720" y="937" width="54" height="54"/>
+    <SubTexture name="MS_Base_galleta" x="1274" y="941" width="54" height="52"/>
+    <SubTexture name="MS_Base_play" x="804" y="856" width="258" height="103"/>
+    <SubTexture name="MS_Circulo" x="416" y="550" width="386" height="385"/>
+    <SubTexture name="MS_Circulo_Options" x="1333" y="870" width="84" height="84"/>
+    <SubTexture name="MS_Circulo_shop" x="1921" y="837" width="84" height="83"/>
+    <SubTexture name="MS_Diamante" x="1940" y="626" width="34" height="28"/>
+    <SubTexture name="MS_Diamantes_base" x="1812" y="667" width="150" height="76"/>
+    <SubTexture name="MS_Galleta" x="1196" y="493" width="33" height="33"/>
+    <SubTexture name="MS_Galletas_base" x="1655" y="913" width="150" height="76"/>
+    <SubTexture name="MS_Icono_Options" x="1956" y="495" width="33" height="32"/>
+    <SubTexture name="MS_Icono_shop" x="1938" y="922" width="32" height="27"/>
+    <SubTexture name="MS_Linea_Circulo" x="434" y="1" width="402" height="402"/>
+    <SubTexture name="MS_Liston_Santa" x="1" y="927" width="386" height="70"/>
+    <SubTexture name="MS_LogoName" x="1625" y="388" width="369" height="105"/>
+    <SubTexture name="MS_Options" x="389" y="937" width="64" height="65"/>
+    <SubTexture name="MS_play_arrow" x="1893" y="922" width="43" height="52"/>
+    <SubTexture name="MS_Store" x="455" y="937" width="64" height="65"/>
+    <SubTexture name="SS_Anterior_PJ" x="587" y="937" width="65" height="64"/>
+    <SubTexture name="SS_Atras_Main" x="521" y="937" width="64" height="65"/>
+    <SubTexture name="SS_Ayudas" x="1544" y="730" width="228" height="90"/>
+    <SubTexture name="SS_Cinta_Santa" x="1" y="850" width="413" height="75"/>
+    <SubTexture name="SS_Circulo" x="1" y="434" width="413" height="414"/>
+    <SubTexture name="SS_Circulo_Atras" x="1649" y="822" width="84" height="84"/>
+    <SubTexture name="SS_Comprar" x="1575" y="540" width="236" height="94"/>
+    <SubTexture name="SS_Flecha_PJ_A" x="1544" y="686" width="19" height="32"/>
+    <SubTexture name="SS_Icono_Atras" x="1996" y="388" width="19" height="32"/>
+    <SubTexture name="SS_Linea_circulo" x="1" y="1" width="431" height="431"/>
+    <SubTexture name="SS_Linea_PJ_A" x="1940" y="540" width="83" height="84"/>
+    <SubTexture name="SS_Linea_PJ_B-1" x="1807" y="913" width="84" height="84"/>
+    <SubTexture name="SS_Linea_PJ_B" x="2004" y="626" width="19" height="32"/>
+    <SubTexture name="SS_Mejoras" x="1774" y="745" width="228" height="90"/>
+    <SubTexture name="SS_Personajes" x="1419" y="822" width="228" height="90"/>
+    <SubTexture name="SS_Probar" x="1735" y="837" width="184" height="74"/>
+    <SubTexture name="SS_Reno 2" x="804" y="550" width="304" height="304"/>
+    <SubTexture name="SS_Reno" x="1110" y="528" width="304" height="304"/>
+    <SubTexture name="SS_Siguiente_PJ" x="654" y="937" width="64" height="64"/>
+    <SubTexture name="SS_Store" x="1419" y="914" width="234" height="71"/>
+    <SubTexture name="SS_Titulo" x="1064" y="870" width="267" height="69"/>
+</TextureAtlas>

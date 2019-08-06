@@ -1,0 +1,131 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27536ee3659f1fc4d81aa598ee8a7cd0, type: 3}
+  m_Name: GameWeights
+  m_EditorClassIdentifier: 
+  wallsW:
+  - name: chimenea_basic
+    weight: 100
+    parameter: 0
+    range:
+      x: 0
+      y: 50
+  - name: chimenea_basic
+    weight: 40
+    parameter: 0
+    range:
+      x: 50
+      y: 100
+  - name: chimenea_basic
+    weight: 10
+    parameter: 1
+    range:
+      x: 30
+      y: 100
+  - name: chimenea_basic
+    weight: 5
+    parameter: 2
+    range:
+      x: 70
+      y: 100
+  - name: chimenea_basic
+    weight: 20
+    parameter: 0
+    range:
+      x: 100
+      y: -1
+  hazardBlocksW:
+  - name: null
+    weight: 80
+    parameter: 0
+    range:
+      x: 0
+      y: 80
+  - name: obstacle1
+    weight: 100
+    parameter: 0
+    range:
+      x: 0
+      y: 100
+  - name: obstacle1
+    weight: 50
+    parameter: 0
+    range:
+      x: 100
+      y: -1
+  - name: obstacle1_1
+    weight: 100
+    parameter: 0
+    range:
+      x: 0
+      y: 100
+  - name: obstacle3
+    weight: 20
+    parameter: 0
+    range:
+      x: 60
+      y: 150
+  - name: obstacle4
+    weight: 80
+    parameter: 0
+    range:
+      x: 100
+      y: 200
+  - name: obstacle5
+    weight: 100
+    parameter: 0
+    range:
+      x: 150
+      y: 250
+  - name: obstacle6
+    weight: 80
+    parameter: 0
+    range:
+      x: 150
+      y: 250
+  - name: obstacle7
+    weight: 30
+    parameter: 0
+    range:
+      x: 180
+      y: 250
+  chimney_normal_hazards:
+  - name: electrocutador_pattern_1
+    weight: 20
+    parameter: 0
+    range:
+      x: 0
+      y: 0
+  - name: electrocutador_pattern_2
+    weight: 20
+    parameter: 0
+    range:
+      x: 0
+      y: 0
+  - name: gun_fire_pattern_1
+    weight: 100
+    parameter: 0
+    range:
+      x: 0
+      y: 0
+  - name: laser_pattern_1
+    weight: 20
+    parameter: 0
+    range:
+      x: 0
+      y: 0
+  - name: laser_pattern_2
+    weight: 20
+    parameter: 0
+    range:
+      x: 0
+      y: 0

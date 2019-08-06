@@ -1,0 +1,39 @@
+;paint.net Palette File
+;Downloaded from Lospec.com/palette-list
+;Palette Name: Voodo34
+;Description: 
+;Colors: 34
+FF111426
+FF373d5f
+FF626789
+FF838ea8
+FFbdd0ef
+FF1c2153
+FF2d4280
+FF5a77b9
+FF8dc9f2
+FF33275d
+FF6a448a
+FFa467c3
+FFec98f7
+FF29484a
+FF149d63
+FF55bf41
+FFa0e772
+FF3ac390
+FF80f3b5
+FFf4fbf8
+FF6b1830
+FFc6224e
+FFf84284
+FFfe95cd
+FFc72d1e
+FFe15d2c
+FFe8931f
+FFf2d833
+FF3a2222
+FF653223
+FF865234
+FF7a6240
+FFb98968
+FFf8d094

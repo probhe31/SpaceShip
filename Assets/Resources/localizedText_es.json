@@ -1,0 +1,388 @@
+{
+  "items": [
+    {
+      "key": "play",
+      "value": "Jugar"
+    },
+	{
+      "key": "options",
+      "value": "Opciones"
+    },
+	{
+      "key": "store",
+      "value": "Tienda"
+    },
+	{
+      "key": "characters",
+      "value": "Personajes"
+    },
+	{
+      "key": "upgrades",
+      "value": "Mejoras"
+    },
+	{
+      "key": "utilities",
+      "value": "Utilitarios"
+    },
+	{
+      "key": "goToMenu",
+      "value": "Volver al Menú"
+    },
+	{
+      "key": "language",
+      "value": "Lenguage"
+    },
+	{
+      "key": "contactUs",
+      "value": "Contáctanos"
+    },
+	{
+      "key": "credits",
+      "value": "Créditos"
+    },
+	{
+      "key": "sounds",
+      "value": "Sonidos"
+    },
+	{
+      "key": "music",
+      "value": "Música"
+    },
+	{
+      "key": "facebook",
+      "value": "Facebook"
+    },
+	{
+      "key": "achievements",
+      "value": "Logros"
+    },
+	{
+      "key": "googlePlay",
+      "value": "Google Play"
+    },
+	{
+      "key": "ranking",
+      "value": "Clasificación"
+    },
+	{
+      "key": "pause",
+      "value": "Pausa"
+    },
+	{
+      "key": "continue",
+      "value": "Continuar"
+    },
+	{
+      "key": "retry",
+      "value": "Reintentar"
+    },
+	{
+      "key": "exit",
+      "value": "Salir"
+    },
+	{
+      "key": "gameOver",
+      "value": "Game Over"
+    },
+	{
+      "key": "score",
+      "value": "Puntaje"
+    },
+	{
+      "key": "bestScore",
+      "value": "Mejor puntaje"
+    },
+	{
+      "key": "cookies",
+      "value": "Galletas"
+    },
+  {
+      "key": "lights",
+      "value": "focos"
+    },
+  {
+  "key": "times",
+  "value": "times"
+},
+  {
+      "key": "dailyReward",
+      "value": "Recompensa Diaria"
+    },
+  {
+      "key": "claim",
+      "value": "Reclamar"
+    },
+    {
+      "key": "claimx2",
+      "value": "Reclamar x2"
+    },
+{
+   "key": "meterMission",
+      "value": "Recorre /VALUE metros."
+},
+{
+   "key": "lightMission",
+      "value": "Enciende /VALUE luces navideñas."
+},
+{
+   "key": "lightMissionNoDie",
+      "value": "Enciende /VALUE luces navideñas sin morir."
+},
+{
+   "key": "meterMissionNoDie",
+      "value": "Recorre /VALUE metros sin morir."
+},
+{
+   "key": "cookiesMission",
+      "value": "Recolecta /VALUE galletas."
+},
+{
+   "key": "cookiesMissionNoDie",
+      "value": "Recolecta /VALUE galletas sin morir."
+},
+{
+   "key": "lotCookieMission",
+      "value": "Recolecta /VALUE galletas especiales."
+},
+{
+   "key": "lotCookieMissionNoDie",
+      "value": "Recolecta /VALUE galletas especiales sin morir."
+},
+{
+   "key": "chimneyFallMission",
+      "value": "Cae /VALUE veces por la chimenea."
+},
+{
+   "key": "buyUpgradeMission",
+      "value": "Compra la mejora /VALUE ."
+},
+{
+   "key": "dieBetweenMission",
+      "value": "Termina una partida entre /VALUE metros."
+},
+{
+   "key": "itchMission",
+      "value": "Deslizate por la pared /VALUE metros."
+},
+{
+   "key": "missionComplete",
+      "value": "MISSION COMPLETE"
+},
+{
+   "key": "missions",
+      "value": "MISIONES"
+},
+{
+   "key": "openGift",
+      "value": "ABRIR REGALO"
+},
+{
+  "key": "day",
+  "value": "Day"
+},
+{
+  "key": "buy",
+  "value": "Comprar"
+},
+{
+  "key": "equip",
+  "value": "Equipar"
+},
+{
+  "key": "u_iman_cookies",
+  "value": "Imán de galletas"
+},
+{
+  "key": "u_iman_special_cookies",
+  "value": "Imán de galletas especiales"
+},
+{
+  "key": "u_improved_cookies",
+  "value": "Galletas mejoradas"
+},
+{
+  "key": "u_ruin_lasers",
+  "value": "Malogra lasers"
+},
+{
+  "key": "u_ruin_cohetes",
+  "value": "Malogra cohetes"
+},
+{
+  "key": "u_bomb",
+  "value": "Bomba"
+},
+{
+  "key": "u_bomb_d",
+  "value": "Bomba"
+},
+{
+  "key": "u_iman_cookies_d",
+  "value": "Imán de galletas"
+},
+{
+  "key": "u_iman_special_cookies_d",
+  "value": "Imán de galletas especiales"
+},
+{
+  "key": "u_improved_cookies_d",
+  "value": "Galletas mejoradas"
+},
+{
+  "key": "u_ruin_lasers_d",
+  "value": "Malogra lasers"
+},
+{
+  "key": "u_ruin_cohetes_d",
+  "value": "Malogra cohetes"
+},
+{
+  "key": "discard",
+  "value": "Desequipar"
+},
+{
+  "key": "requirement_1",
+  "value": "Necesitas comprar /VALUE mejoras"
+},
+{
+  "key": "reset",
+  "value": "Reset"
+},
+{
+  "key": "remaining",
+  "value": "Restantes:"
+},
+{
+  "key": "meters",
+  "value": "metros"
+},
+{
+  "key": "upgrade",
+  "value": "Mejora"
+},
+{
+  "key": "level",
+  "value": "nivel"
+},
+{
+  "key": "achv_name_test",
+  "value": "Achievement name"
+},
+{
+  "key": "achv_descr_test",
+  "value": "Achievement description"
+},
+{
+  "key": "achv1_name",
+  "value": "Saltarin novato"
+},
+{
+  "key": "achv2_name",
+  "value": "Saltarin experto"
+},
+{
+  "key": "achv3_name",
+  "value": "Saltarin sayayin"
+},
+{
+  "key": "achv4_name",
+  "value": "Saltarin saytama"
+},
+{
+  "key": "achv5_name",
+  "value": "Saltarin legendario"
+},
+{
+  "key": "achv1_descr",
+  "value": "Cae /VALUE veces por la chimenea."
+},
+{
+  "key": "achv6_name",
+  "value": "Cazador de regalos"
+},
+{
+  "key": "achv6_descr",
+  "value": "Recoge el regalo diario del quinto día."
+},
+{
+  "key": "achv7_name",
+  "value": "Experto en caídas"
+},
+{
+  "key": "achv8_name",
+  "value": "Maestro en caídas"
+},
+{
+  "key": "achv9_name",
+  "value": "Sensei en caídas"
+},
+{
+  "key": "achv7_descr",
+  "value": "Cae /VALUE metros por la chimenea."
+},
+{
+  "key": "achv10_name",
+  "value": "Junior comegalletas"
+},
+{
+  "key": "achv10_descr",
+  "value": "Come /VALUE galletas."
+},
+{
+  "key": "achv11_name",
+  "value": "Sensei comegalletas"
+},
+{
+  "key": "achv12_name",
+  "value": "Legendario comegalletas"
+},
+{
+  "key": "achv13_name",
+  "value": "Master comegalletas"
+},
+{
+  "key": "achv14_name",
+  "value": "Cazador de regalos diarios."
+},
+{
+  "key": "achv14_descr",
+  "value": "Recoge /VALUE regalos diarios."
+},
+{
+  "key": "achv15_name",
+  "value": "Experto cazador de regalos diarios."
+},
+{
+  "key": "achv16_name",
+  "value": "Sensei cazador de regalos diarios."
+},
+{
+  "key": "achv17_name",
+  "value": "Despilfarrador."
+},
+{
+  "key": "achv17_descr",
+  "value": "Compra todos los upgrades."
+},
+{
+  "key": "achv18_name",
+  "value": "Buscador de secretos."
+},
+{
+  "key": "achv18_descr",
+  "value": "Encuentra los tres botones secretos."
+},
+{
+  "key": "buyHeart",
+  "value": "Resucitar"
+},
+{
+  "key": "watchVideo",
+  "value": "Ver video."
+}
+
+
+
+
+  ]
+}
