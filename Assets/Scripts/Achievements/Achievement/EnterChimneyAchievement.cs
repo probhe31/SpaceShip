@@ -26,7 +26,7 @@ public class EnterChimneyAchievement : Achievement
         if (DataMan.Instance.achievementsData.Enter_Chimney_Accumulator >= this.numEnter)
         {
             this.Complete();
-            GooglePlayMan.Instance.UpdateAchievement();
+            //-->GooglePlayMan.Instance.UpdateAchievement();
         }
 
     }

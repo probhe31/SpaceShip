@@ -7,7 +7,7 @@ public class DieDetection : MonoBehaviour
 {
     float timeToDetect = 0.3f;
     float cTimeToDetect = 0;
-    public Rigidbody myRb;
+    Rigidbody myRb;
     public bool isDie = false;
     public Transform followPlayer;
 
@@ -37,21 +37,15 @@ public class DieDetection : MonoBehaviour
 
     public void Die()
     {
+        Debug.Log("diee!");
         if (this.isDie)
             return;
 
         this.isDie = true;
-
         SmoothFollowCamera.Instance.ShakeCamera(0.5f, 0.04f);
-
-        //this.isDie = true;
-       
         this.myRb.angularVelocity = Vector3.zero;
         this.myRb.velocity = Vector3.zero;
-
-        //this.GetComponent<Player>().Die();
         Game.Instance.player.Die();
-
         StartCoroutine(WaitingToGoGameOver());
     }
 

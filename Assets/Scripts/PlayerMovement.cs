@@ -68,9 +68,7 @@ public class PlayerMovement : MonoBehaviour
                 if (newVel.x > 0)
                     newVel.x = 0;
             }
-
-            
-
+           
         }
 
         #endregion
@@ -78,40 +76,40 @@ public class PlayerMovement : MonoBehaviour
         #region yMovement
         if (this.player.input.VerticalAxis != 0)
         {
-            newVel.z += this.player.input.VerticalAxis * PlayerVars.acceleration * Time.fixedDeltaTime;
+            newVel.y += this.player.input.VerticalAxis * PlayerVars.acceleration * Time.fixedDeltaTime;
             if (this.player.input.VerticalAxis > 0) dirZ = 1; else dirZ = -1;
-            newAngularVel.x = newVel.z * 6;
+            newAngularVel.x = newVel.y * 6;
 
         }
         else
         {
-            if (newVel.z > 0)
+            if (newVel.y > 0)
             {
-                newVel.z -= PlayerVars.dessaceleration * Time.fixedDeltaTime;
-                if (newVel.z < 0)
-                    newVel.z = 0;
+                newVel.y -= PlayerVars.dessaceleration * Time.fixedDeltaTime;
+                if (newVel.y < 0)
+                    newVel.y = 0;
             }
             else
             {
-                newVel.z += PlayerVars.dessaceleration * Time.fixedDeltaTime;
-                if (newVel.z > 0)
-                    newVel.z = 0;
+                newVel.y += PlayerVars.dessaceleration * Time.fixedDeltaTime;
+                if (newVel.y > 0)
+                    newVel.y = 0;
             }
             
         }
         #endregion
 
-        newVel.y = PlayerVars.maxFallSpeed;
+        newVel.z = PlayerVars.maxForwardSpeed;
 
         if (newVel.x > PlayerVars.maxMoveSpeed)
             newVel.x = PlayerVars.maxMoveSpeed;
         else if (newVel.x < -PlayerVars.maxMoveSpeed)
             newVel.x = -PlayerVars.maxMoveSpeed;
 
-        if (newVel.z > PlayerVars.maxMoveSpeed)
-            newVel.z = PlayerVars.maxMoveSpeed;
-        else if (newVel.z < -PlayerVars.maxMoveSpeed)
-            newVel.z = -PlayerVars.maxMoveSpeed;
+        if (newVel.y > PlayerVars.maxMoveSpeed)
+            newVel.y = PlayerVars.maxMoveSpeed;
+        else if (newVel.y < -PlayerVars.maxMoveSpeed)
+            newVel.y = -PlayerVars.maxMoveSpeed;
 
 
         if(this.player.input.HorizontalAxis == 0)
@@ -124,7 +122,11 @@ public class PlayerMovement : MonoBehaviour
             newAngularVel.x = dirZ * 2.5f;
         }
 
-        this.rb.angularVelocity = newAngularVel;     
+
+
+        this.rb.angularVelocity = newAngularVel;
+
+
         this.rb.velocity = newVel;
         
         Game.Instance.fallDistanceMeter.UpdateMeters(this.transform.position.y);

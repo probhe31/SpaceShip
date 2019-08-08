@@ -26,7 +26,7 @@ public class Game : MonoBehaviour
     private void Awake()
     {
         Instance = this;
-        CreateCharacter(Vector3.zero + Vector3.down * 2);
+        CreateCharacter(Vector3.zero);
     }
 
     void CreateCharacter(Vector3 position)

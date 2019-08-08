@@ -16,7 +16,7 @@ public class Block : MonoBehaviour
     public virtual void OnInitialize()
     {
         Vector3 newrot = this.transform.localRotation.eulerAngles;
-        newrot.z = 0;
+        newrot.y = 0;        
         this.transform.localRotation = Quaternion.Euler(newrot);
     }
            
@@ -26,10 +26,8 @@ public class Block : MonoBehaviour
         this.iFactory = _ifactory;
         this.parameter = _parameter;
 
-        Vector3 p = lastEndPoint + (Vector3.down * (heigh / 2));
-        p.z = 0;
-        p.x = 0;
-        p.y = Mathf.Round(p.y);
+        Vector3 p = lastEndPoint + (Vector3.forward * (heigh / 2));
+        p.z = Mathf.Round(p.z);       
         this.transform.position = p;
         die = false;
         OnInitialize();
@@ -38,7 +36,7 @@ public class Block : MonoBehaviour
 
     private void Update()
     {
-        if(endPoint.position.y > Game.Instance.mainCameraTransform.position.y)
+        if(endPoint.position.z < Game.Instance.mainCameraTransform.position.z)
         {
             Kill();
         }

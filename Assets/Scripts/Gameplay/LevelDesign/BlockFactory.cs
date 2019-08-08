@@ -33,7 +33,7 @@ public class BlockFactory: Factory
 
         GameObject wall = TrashMan.spawn(gameWeights.wallsW[res].name);
         wall.transform.parent = levelContainer.transform;
-        wall.transform.eulerAngles = new Vector3(-90, 0, 0);
+        wall.transform.eulerAngles = new Vector3(0, 0, 0);
 
         return GetBlockFromWall(wall, res);
     }

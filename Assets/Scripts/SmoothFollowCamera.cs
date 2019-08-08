@@ -5,14 +5,9 @@ using UnityEngine;
 public class SmoothFollowCamera : MonoBehaviour
 {
     public Transform target;
-
     public float smoothSpeed = 0.125f;
     public Vector3 offset;
-
     bool hasTarget = false;
-
-
-
     public Vector3 initialPos;
     bool justStartShaking = false;
     public bool shaking = false;
@@ -21,7 +16,6 @@ public class SmoothFollowCamera : MonoBehaviour
     float _elapsed = 0;
     float _duration = 0;
     float _magnitude = 0;
-
     public static SmoothFollowCamera Instance;
 
     private void Awake()
@@ -54,15 +48,14 @@ public class SmoothFollowCamera : MonoBehaviour
                 _elapsed += Time.deltaTime;
 
                 float percentComplete = _elapsed / _duration;
-                //float damper = 1.0f - Mathf.Clamp(4.0f * percentComplete - 3.0f, 0.0f, 1.0f);
                 float damper = 1.0f - Mathf.Clamp(2.0f * percentComplete - 3.0f, 0.0f, 1.0f);
 
                 float x = Random.value * 2.0f - 1.0f;
-                float z = Random.value * 2.0f - 1.0f;
+                float y = Random.value * 2.0f - 1.0f;
                 x *= _magnitude * damper;
-                z *= _magnitude * damper;
+                y *= _magnitude * damper;
 
-                Camera.main.transform.position = new Vector3(x, originalPosT.y, z);
+                Camera.main.transform.position = new Vector3(x, y, originalPosT.z);
             }
             else
             {
@@ -74,7 +67,7 @@ public class SmoothFollowCamera : MonoBehaviour
         {
             Vector3 desiredPosition = target.position + offset;
             desiredPosition.x = Mathf.Clamp(desiredPosition.x, -0.5f, 0.5f);
-            desiredPosition.z = Mathf.Clamp(desiredPosition.z, -0.5f, 0.5f);
+            desiredPosition.y = Mathf.Clamp(desiredPosition.y, -0.5f, 0.5f);
 
 
             Vector3 smoothedPosition = Vector3.Lerp(transform.position, desiredPosition, smoothSpeed);
@@ -95,9 +88,7 @@ public class SmoothFollowCamera : MonoBehaviour
     public void StopShake()
     {
         shaking = false;
-        hasTarget = false;
-        //Vector3 endPos = new Vector3(originalPosT.x, this.transform.position.y, originalPosT.z);
-        //Camera.main.transform.position = endPos;
+        hasTarget = false;        
     }
 
 
